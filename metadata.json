@@ -1,0 +1,6 @@
+{
+  "name": "Gemini TTS Studio",
+  "description": "Full-stack React + Express app for generating educational audio and video voiceovers with Gemini TTS API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
